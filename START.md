@@ -22,3 +22,10 @@
   go run .\filename.go `or`
   go run filename.go
 ```
+
+## Completed Topics:
+- Introduction
+- Comments
+- Variables
+- Constants
+- Output (Print and Println)
