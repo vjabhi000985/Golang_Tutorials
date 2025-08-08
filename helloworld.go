@@ -22,8 +22,18 @@ import (
 )
 
 func main() {
+	// Declaring Variables Syntax : `var variable_name type = value
+	var name string = "Abhi" // Type is string
 
+	var age = 25 // Type is infered
+
+	x := "Abhishek" // Type is infered
+
+	// using `:=` : variable_name := value. It can't be left blank. 
 	fmt.Println("Hello world")
+	fmt.Println(name)
+	fmt.Println(age)
+	fmt.Println("You name is",x)
 }
 
 // We can use `;` semilion to create compact statements.
