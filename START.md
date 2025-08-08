@@ -1,4 +1,6 @@
-# First, install the Golang from the website https://golang.org/dl/
+# Golang Tutorial Notes
+## First, install the Golang from the website 
+url: https://golang.org/dl/
 
 ## Check the version
 ```golang
