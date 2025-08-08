@@ -22,7 +22,11 @@ const (
 
 func contanstTest(){
 	var radius float32
-
+	
+	
+	/*
+		We use the fmt.Scan(&variablename) to user input user defined values.
+	*/
 	fmt.Print("Enter the radius of a circle: ")
 	fmt.Scan(&radius)
 
