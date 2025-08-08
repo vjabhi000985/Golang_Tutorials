@@ -3,7 +3,7 @@ import (
 	"fmt"
 )
 
-func main(){
+func declaration(){
 	// Variable declaration without initial value
 	// Their value wiil be set to the default value of its type.  
 	var a string

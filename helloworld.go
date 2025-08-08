@@ -21,7 +21,7 @@ import (
 	"fmt"
 )
 
-func main() {
+func variables(){
 	// Declaring Variables Syntax : `var variable_name type = value
 	var name string = "Abhi" // Type is string
 
@@ -30,7 +30,7 @@ func main() {
 	x := "Abhishek" // Type is infered
 
 	// using `:=` : variable_name := value. It can't be left blank. 
-	fmt.Println("Hello world")
+	// fmt.Println("Hello world")
 	fmt.Println(name)
 	fmt.Println(age)
 	fmt.Println("You name is",x)
