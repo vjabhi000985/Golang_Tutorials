@@ -16,4 +16,8 @@ func stringManipulation(){
 
 	fmt.Println("My name is", name)
 
+	// How to use printf
+	// %v - value and %T - type of the variable
+	fmt.Printf("Hello %v",name)
+
 }
