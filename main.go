@@ -7,5 +7,6 @@ func main(){
 	// variables()
 
 	// multiVariable()
-	contanstTest()
+	// contanstTest()
+	stringManipulation()
 }
