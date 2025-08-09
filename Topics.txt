@@ -1,0 +1,28 @@
+# Topics learned
+- Basics
+- How to create a file
+- Variable declaration - both typed and untyped
+- Constants
+- Block level declaration
+- Single and Multi-line comments
+- How to take user inputs using Scan()
+
+# Tomorrow's Topics to learn 
+- Loops
+- Maths functions
+- String functions
+- How to use Printf()
+
+# Others (Python)
+- Maths functions
+- String functions
+- Numpy
+- Pandas
+- Matplotlib
+- How to generate an effective data analysis report
+
+# Others (Java)
+- Maths functions
+- String functions
+- Arrays
+- OOPS Basics
