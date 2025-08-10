@@ -16,11 +16,12 @@ func UserInput() {
 	fmt.Println("Please Enter your name: ")
 	// fmt.Scan(&name) // Bittu Kumar
 	// fmt.Println("My name is",name) // Bittu
+	
+	// Multiple Input using Scan()
 	fmt.Scan(&name,&currentSalary)
 
 	fmt.Println("My name is",name) // Bittu
 	fmt.Println("My current salary is",currentSalary) // 12000.00
-	// Multiple Input using Scan()
 
 	// Scanln()
 
