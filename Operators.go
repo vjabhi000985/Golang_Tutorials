@@ -94,5 +94,13 @@ func Operators(){
 		Eg. x++, y--
 	*/
 
+	/*
+		7. Address & pointer operators:
+		|--	& → address of a variable
+		|--	* → dereference a pointer
+	*/
 
+	p := &x
+	fmt.Println(p) // 0xc00008c0a8
+	fmt.Println(*p) // Value - 1
 }
