@@ -28,4 +28,12 @@ func FormattedStringsTutorial(){
 	fmt.Printf("My current Salary is %d.\n", currentSalary)
 	fmt.Printf("Is %s work in GTEC Computer Education? %t\n",name,isEmployed)
 	fmt.Printf("Today's Temperature: %0.1f",temperature)
+
+	/*
+		Apart from that, we also, have two different specific format specifier.
+		|-- %v - Value
+		|-- %T - Data type
+	*/
+	fmt.Printf("\nValue: %v | Type: %T", isEmployed, isEmployed)
+	// Output: Value: true | Type: bool
 }
