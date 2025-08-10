@@ -93,6 +93,15 @@ func Operators(){
 		6. Increment/Decrement operators : They are generally used with loops and their value cannot be assigned to other variables.
 		Eg. x++, y--
 	*/
+	num := 5
+
+  // increment of num by 1
+  num++
+  fmt.Println(num)  // 6
+
+  // decrement of num by 1
+  num--
+  fmt.Println(num)  // 4
 
 	/*
 		7. Address & pointer operators:
