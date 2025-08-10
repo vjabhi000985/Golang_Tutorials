@@ -9,5 +9,6 @@ func main(){
 	// multiVariable()
 	// contanstTest()
 	// stringManipulation()
-	DrawPattern()
+	// DrawPattern()
+	Operators()
 }
