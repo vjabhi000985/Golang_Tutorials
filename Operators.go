@@ -59,4 +59,18 @@ func Operators(){
 	fmt.Println(x <= y) // false
 	fmt.Println(x >= y) // true
 
+	/*
+		4. Logical Operators: Used with boolean values.
+		&& - Logical AND
+		|| - Logical OR
+		! - Logical NOT
+	*/
+
+	isRain := false
+	isCold := true
+	fmt.Println(isRain && isCold) // false
+	fmt.Println(isRain || isCold) // true
+	fmt.Println(!isCold) //false
+
+	
 }
