@@ -89,4 +89,10 @@ func Operators(){
 	fmt.Println(x << 2) // 4
 	fmt.Println(7 >> 2) // 1
 
+	/*
+		6. Increment/Decrement operators : They are generally used with loops and their value cannot be assigned to other variables.
+		Eg. x++, y--
+	*/
+
+
 }
