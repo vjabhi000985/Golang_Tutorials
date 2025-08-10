@@ -1,8 +1,7 @@
-package main 
-import ()
+package main
 
 // Use the command : go run . to run all the files and in that way we can access all the variables.
-func main(){
+func main() {
 	// fmt.Println("Hello World")
 	// variables()
 
@@ -10,5 +9,6 @@ func main(){
 	// contanstTest()
 	// stringManipulation()
 	// DrawPattern()
-	Operators()
+	// Operators()
+	FormattedStringsTutorial()
 }
