@@ -72,5 +72,21 @@ func Operators(){
 	fmt.Println(isRain || isCold) // true
 	fmt.Println(!isCold) //false
 
-	
+	/*
+		5. Bitwise Operators: Work on binary representations.
+		& (AND) : Sets a bit to 1 if both corresponding bits are 1.
+		| (OR)  : Sets a bit to 1 if at least one corresponding bit is 1.
+		^ (XOR) : Sets a bit to 1 if bits are different (1 and 0 or 0 and 1).
+		&^ (AND NOT) : Clears (sets to 0) the bits in the first operand where the second operand has bits set to 1.
+		>> (RIGHT SHITF) : Shifts bits to the right, discarding bits on the right (divides by 2ⁿ).
+		<< (LEFT SHIFT)  : Shifts bits to the left, adding zeros on the right (multiplies by 2ⁿ).
+	*/
+
+	fmt.Println(x & y) // 0
+	fmt.Println(x | y) // 1
+	fmt.Println(x ^ 2) // 3
+	fmt.Println(x &^ 2) // 1
+	fmt.Println(x << 2) // 4
+	fmt.Println(7 >> 2) // 1
+
 }
