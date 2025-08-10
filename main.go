@@ -10,5 +10,6 @@ func main() {
 	// stringManipulation()
 	// DrawPattern()
 	// Operators()
-	FormattedStringsTutorial()
+	// FormattedStringsTutorial()
+	UserInput()
 }
