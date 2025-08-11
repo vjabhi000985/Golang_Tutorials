@@ -20,5 +20,16 @@ func TypeCastingExample(){
 	var y float32 = float32(x)
 
 	fmt.Println(y)
-	fmt.Printf("Value : %f | Type : %T",y,y)
+	fmt.Printf("Value : %f | Type : %T\n",y,y)
+
+	// Add int and float number using Go type casting
+	var z float32
+
+	z = 25.6
+
+	var sum float32
+
+	sum = float32(x) + z 
+
+	fmt.Printf("Sum = %g",sum)
 }
