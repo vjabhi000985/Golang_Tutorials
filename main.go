@@ -11,5 +11,6 @@ func main() {
 	// DrawPattern()
 	// Operators()
 	// FormattedStringsTutorial()
-	UserInput()
+	// UserInput()
+	TypeCastingExample()
 }
