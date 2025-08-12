@@ -7,6 +7,8 @@ import (
 func GreatestNumber(){
 	var x,y,z int
 
+	// Greatest among three numbers.
+
 	x = 19
 	y = 17
 	z = 15
