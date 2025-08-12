@@ -12,5 +12,6 @@ func main() {
 	// Operators()
 	// FormattedStringsTutorial()
 	// UserInput()
-	TypeCastingExample()
+	// TypeCastingExample()
+	GreatestNumber()
 }
