@@ -16,7 +16,7 @@ func GreatestNumber(){
 	if x > y {
 		fmt.Printf("\n%d is greater", x)
 	} else if x < y{
-		fmt.Printf("\n%d is greater", y)
+		fmt.Printf("\n%d is greater\n", y)
 	} else{
 		fmt.Printf("\n%d and %d are equal.", x, y)
 	}
